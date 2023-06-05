@@ -1,0 +1,12 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: Smith-mini-unit-1.ipynb
+- file: Smith-mini-unit-2.ipynb
+- file: Smith-mini-unit-3.ipynb
+- file: Smith-mini-unit-4.ipynb
+- file: Smith-mini-unit-5.ipynb
+- file: Smith-mini-unit-6.ipynb
